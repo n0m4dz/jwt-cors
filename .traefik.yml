@@ -1,0 +1,8 @@
+displayName: JWT CORS
+type: middleware
+import: github.com/n0m4dz/jwt-cors
+summary: 'Traefik JWT plugin'
+
+testData:
+  encodedHeader:
+    - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNTNkMTg4NmEyZWQ0NTkwNjJjZjk4MCIsImxvZ2luIjoiYWRtaW4iLCJpYXQiOjE2NDk3NjExNjgsImV4cCI6MTY0OTg0NzU2OH0.iLeaNGZ8m7CFRaLeoLrzQnfQL58GQvVpNet_yMGcu8A"
